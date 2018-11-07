@@ -8,3 +8,5 @@ either the highlights or shadows of either a matte or a shiny surface.
 matcap.
 
   WallSet3 Albedo Dark.png and WallSet3 Normal Trimmed.png are texture files that can be used to test this Matcap.
+  
+  This shader is NOT suitable for scenes in which the camera rotates, as all lighting is camera-dependent.
