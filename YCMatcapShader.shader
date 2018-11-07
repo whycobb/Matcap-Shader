@@ -2,7 +2,6 @@
  * Yorick Cobb
  * 2018
  * With help from many sources
- * Technically, I think the government owns this code.
  */
 
 Shader "YCMatcapSpec"
